@@ -44,12 +44,12 @@
 // document.write('Random dice value: ' + Math.ceil(Math.random() * 6))
 
 // Q5
-var coin = Math.ceil(Math.random() * 2)
-if(coin == 1){
-    document.write('Coin value: Heads')
-}else{
-    document.write('Coin value: Tails')
-}
+// var coin = Math.ceil(Math.random() * 2)
+// if(coin == 1){
+//     document.write('Coin value: Heads')
+// }else{
+//     document.write('Coin value: Tails')
+// }
 
 // Q6
 // document.write('Random number between 1-100: ' + Math.ceil(Math.random() * 100))
